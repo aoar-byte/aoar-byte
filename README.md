@@ -18,12 +18,15 @@ Focado na intersecção entre **Eficiência Sistêmica**, **Tecnologia Aplicada*
 ---
 
 ### 📊 Estatísticas
-echo '' >> README.md
-echo '## 📊 GitHub Stats' >> README.md
-echo '' >> README.md
-echo '[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoar-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/aoar-byte)' >> README.md
+cat >> README.md << 'EOF'
 
-git add -A && git commit -m "docs: github stats" && git push origin main
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aoar-byte&show_icons=true&theme=dracula)](https://github.com/aoar-byte)
+
+EOF
+
+git add -A && git commit -m "docs: github stats card" && git push origin main
 
 ---
 "O que não é medido, não é gerenciado."

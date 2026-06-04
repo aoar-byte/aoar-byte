@@ -18,7 +18,8 @@ Focado na intersecção entre **Eficiência Sistêmica**, **Tecnologia Aplicada*
 ---
 
 ### 📊 Estatísticas
-![As estatísticas do seu GitHub - procure por 'github-readme-stats' no Google para gerar o link]
+echo '[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoar-byte&show_icons=true&theme=dracula)](https://github.com/aoar-byte)' >> README.md
 
+git add -A && git commit -m "docs: github stats" && git push origin main
 ---
 "O que não é medido, não é gerenciado."

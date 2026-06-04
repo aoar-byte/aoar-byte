@@ -18,10 +18,9 @@ Focado na intersecção entre **Eficiência Sistêmica**, **Tecnologia Aplicada*
 ---
 
 ### 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aoar-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/aoar-byte)
-
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoar-byte&theme=dracula)](https://github.com/aoar-byte)
 
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aoar-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/aoar-byte)
 
 ---
 "O que não é medido, não é gerenciado."

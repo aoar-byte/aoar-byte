@@ -5,7 +5,6 @@
 Focado na intersecção entre **Eficiência Sistêmica**, **Tecnologia Aplicada** e **Indústria Criativa**. 
 
 - 🏃 **Atleta de Provas de Fundo:** Resiliência e disciplina de longo prazo aplicadas ao código.
-- 🎖️ **Ex-Cadete (5 anos):** Liderança operacional e rigor em conformidade e processos.
 - 🎸 **Cofundador de Editora Musical:** Visão de dono e domínio de regras de negócio complexas.
 
 ---
